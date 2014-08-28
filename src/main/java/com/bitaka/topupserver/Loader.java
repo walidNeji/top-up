@@ -4,7 +4,7 @@ package com.bitaka.topupserver;
  * Hello world!
  *
  */
-public class App 
+public class Loader 
 {
     public static void main( String[] args )
     {
